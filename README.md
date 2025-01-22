@@ -16,7 +16,7 @@ Sample solution for the [Unit Converter challenge](https://roadmap.sh/projects/u
 1. Clone the repository:
    ```bash
    git clone https://github.com/jibarram/Backend-UnitConverter.git
-   cd unit-converter
+   cd Backend-UnitConverter
    ```
 
 2. Install the dependencies:
