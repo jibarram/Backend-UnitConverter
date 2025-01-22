@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  nav a.active {
+    text-decoration: underline;
+    color: #007BFF;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  form p {
+    margin: 10px 0;
+  }
+  
+  form input, form select, form button {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .result {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }
